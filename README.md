@@ -1,0 +1,1 @@
+making changes directly in this README.md file on GitHub to simulate changes made by another person; the purpose is the practice the pull command in git for working in collaboration with other developers
